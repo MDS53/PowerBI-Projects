@@ -9,10 +9,7 @@ This repository contains a comprehensive analysis of healthcare data using Power
 The dataset provides comprehensive insights into Atliq Hospitality's operations, covering revenue, bookings, room categories, property details, and booking statuses. Key metrics include revenue, occupancy, cancellations, and booking success rates across various dimensions.
 
 
-## Analysis Overview
-
-The analysis has been categorized into the following sections:
-
+# Dashboard Features
 
 
 ## Patient Analysis 
