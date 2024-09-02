@@ -5,8 +5,7 @@ This project involves an in-depth analysis of employee attrition using a Power B
 
 ## Dataset Description
 
-The dataset provides comprehensive insights into Atliq Hospitality's operations, covering revenue, bookings, room categories, property details, and booking statuses. Key metrics include revenue, occupancy, cancellations, and booking success rates across various dimensions.
-
+The dataset contains 4,417 employee records with 35 features, including demographics, job roles, satisfaction levels, compensation, performance, and whether an employee left the company (Attrition). It helps identify factors driving employee attrition, such as job satisfaction, salary, and work-life balance, aiding in the development of retention strategies.
 
 # Dashboard Features
 
