@@ -33,11 +33,5 @@ The dataset contains 4,417 employee records with 35 features, including demograp
 ![Screenshot 2024-09-03 001604](https://github.com/user-attachments/assets/03453bfb-8f6a-42ae-92fd-a4f123333eda)
 
 
-## Contribution Guidelines
-
-We welcome contributions to enhance the analysis or add new insights. Please fork the repository and create a pull request with your proposed changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+In case, if you would like to connect with me:
+#### Linkedin : https://www.linkedin.com/in/mohammad-salman-a633b9238/
