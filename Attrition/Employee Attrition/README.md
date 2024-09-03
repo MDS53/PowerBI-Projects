@@ -24,7 +24,7 @@ The dataset contains 4,417 employee records with 35 features, including demograp
 
 ## Employement History
 
-![Screenshot 2024-09-03 112625](https://github.com/user-attachments/assets/d4841914-46ac-48af-a16e-86f947767fbb)
+![Screenshot 2024-09-03 114855](https://github.com/user-attachments/assets/afaddb2c-da74-416c-a4e2-bade93611639)
 
 
 
