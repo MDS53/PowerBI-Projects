@@ -10,23 +10,21 @@ The dataset contains 4,417 employee records with 35 features, including demograp
 # Dashboard Features
 
 
-## Personal Aspects Analytics
-![Screenshot 2024-09-03 001037](https://github.com/user-attachments/assets/a646dc57-78a3-4473-a6ae-be989d6fd2d7)
+## Overview
+
+![Screenshot 2024-09-03 112600](https://github.com/user-attachments/assets/36ec56dc-8389-4040-ada3-c913db036ce4)
+
+
+## Employee Profile Analytics
+
+![Screenshot 2024-09-03 112613](https://github.com/user-attachments/assets/a6368188-4e5c-46d1-8e3b-e9e77132e585)
 
 
 
-## General Aspects Analytics
 
-![Screenshot 2024-09-03 001027](https://github.com/user-attachments/assets/7b00d0d0-0a75-4c67-81eb-d4c3846e5af0)
+## Employement History
 
-
-
-
-
-## Professional Aspects Analytics
-
-![Screenshot 2024-09-03 001009](https://github.com/user-attachments/assets/be968f41-c219-495f-bc33-0d43f7b3fbcc)
-
+![Screenshot 2024-09-03 112625](https://github.com/user-attachments/assets/d4841914-46ac-48af-a16e-86f947767fbb)
 
 
 
